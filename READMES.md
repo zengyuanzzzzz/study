@@ -20,8 +20,7 @@
             width: 0;
         }
  ```
- ![triangle](http://www.daqianduan.com/wp-content/uploads/2012/10/entity-triangle.png)
- 
+ ![triangle](http://www.daqianduan.com/wp-content/uploads/2012/10/border-triangle.png） 
  ###HTML 字符
  它是基于使用可用的Unicode字符列表的字符。
 优点
