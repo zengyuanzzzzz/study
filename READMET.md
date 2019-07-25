@@ -1,7 +1,8 @@
 ## study
 20190725
 ### css3实现旋转正方体
-**过渡动画 transition**
+
+1. **过渡动画 transition**
 过渡动画过渡的是操作的元素属性
 可写在一块：
 ```
@@ -14,13 +15,13 @@ transition-duration: 0.2s;过渡的时间
 transition-property: all;过渡的属性
 transition-timing-function: linear;  过渡的方式
 ```
-**transform动画**
+2. **transform动画**
 transform:平移值：translate(100px)  可以分为三种x,y,z  默认向右移动
 旋转值：rotate(45deg)   分为x,y,z   默认z轴
 伸缩动画scale: 一个值的时候等距伸缩  两个值的时候代表宽高比例 
 skew:斜动画
 
-**animation帧动画**
+3. **animation帧动画**
 需要先用@keyframes定义动画，然后在加给需要此动画的div。
 ```
 animation: animateInfo 5s linear infinite;
