@@ -20,8 +20,8 @@
             width: 0;
         }
  ```
- ![triangle](http://www.daqianduan.com/wp-content/uploads/2012/10/border-triangle.png） 
- ###HTML 字符
+![triangle](http://www.daqianduan.com/wp-content/uploads/2012/10/border-triangle.png） 
+ ### HTML 字符
  它是基于使用可用的Unicode字符列表的字符。
 优点
 * 它是一个跨浏览器的技术
@@ -37,10 +37,10 @@
             text-shadow: 0px 7px 3px red;
         }
  ```
- ![triangle](http://www.daqianduan.com/wp-content/uploads/2012/10/entity-triangle.png)
+![triangle](http://www.daqianduan.com/wp-content/uploads/2012/10/entity-triangle.png)
 
 
-###CSS 旋转正方形
+### CSS 旋转正方形
  理论上,这种方式，你需要使用两个内容块，但是，并没有限制是使用两个元素，所以可以使用一个元素加一个伪元素。
  
 * 创建一个内容里。例如100×100像素 – 这将包含旋转块。
