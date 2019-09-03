@@ -9,4 +9,5 @@
 [VSCode 是怎么运行起来的?](https://www.barretlee.com/blog/2019/08/03/vscode-source-code-reading-notes/)
 
 [再看2019大前端技术趋势，Web OS概念正落地](https://developer.aliyun.com/article/711504)
+三大框架越来越贴近Web Components标准 
 
