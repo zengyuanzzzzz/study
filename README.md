@@ -7,3 +7,6 @@
 [尤雨溪：在框架设计中寻求平衡](https://zhuanlan.zhihu.com/p/76622839)
 
 [VSCode 是怎么运行起来的?](https://www.barretlee.com/blog/2019/08/03/vscode-source-code-reading-notes/)
+
+[再看2019大前端技术趋势，Web OS概念正落地](https://developer.aliyun.com/article/711504)
+
