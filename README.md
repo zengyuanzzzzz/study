@@ -1,5 +1,16 @@
 
 ##study
+8月第四周
+[学会思考，而不只是编程](https://www.infoq.cn/article/2017/06/Dont-learn-code-Learn-think/)
+
+[程序员应该怎样提高自己](https://blog.codingnow.com/2019/07/top_programmer.html)
+
+[前端开发编程语言的过去、现在和未来](https://johnhax.net/2019/fe-lang/article1)
+
+
+
+
+
 9月第一周
 
 [Web 字体 font-family 再探秘 #69](https://github.com/chokcoco/iCSS/issues/69)
