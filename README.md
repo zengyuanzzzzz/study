@@ -1,6 +1,7 @@
 
 ##study
 8月第四周
+
 [学会思考，而不只是编程](https://www.infoq.cn/article/2017/06/Dont-learn-code-Learn-think/)
 
 [程序员应该怎样提高自己](https://blog.codingnow.com/2019/07/top_programmer.html)
