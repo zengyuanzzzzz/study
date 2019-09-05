@@ -1,5 +1,13 @@
 
 ##study
+8月第二周
+
+[清除浮动主要是为了解决，父元素因为子级元素浮动引起的内部高度为0的问题](https://www.cnblogs.com/lingdu87/p/7770752.html)
+
+[几种方法的优缺点](https://blog.csdn.net/h_qingyi/article/details/81269667)
+
+[详细](https://blog.csdn.net/mrfang1413/article/details/80386203 http://www.sohu.com/a/237178445_608275)
+
 8月四三周
 
 [伪类与伪元素的区别和用法](https://www.cnblogs.com/66-88/articles/6681658.html)
