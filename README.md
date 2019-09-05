@@ -8,6 +8,7 @@
 
 [前端开发编程语言的过去、现在和未来](https://johnhax.net/2019/fe-lang/article1)
 
+[未来前端的机会在哪里?](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247490769&idx=1&sn=7ee6e01045a6fe7e15f16aa33afcc2ad&chksm=e92921dede5ea8c8e93489271e8877d2e8688bd511b32e22c287b6c468904c5466b40f6a2bec&xtrack=1&scene=90&subscene=93&sessionid=1562200039&clicktime=1562)
 
 
 
