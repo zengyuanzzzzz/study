@@ -1,5 +1,9 @@
 
 ##study
+8月四三周
+
+[jquery获取元素的方法](https://www.cnblogs.com/zjfjava/p/9155153.html)
+
 8月第四周
 
 [学会思考，而不只是编程](https://www.infoq.cn/article/2017/06/Dont-learn-code-Learn-think/)
