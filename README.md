@@ -2,6 +2,10 @@
 ##study
 8月四三周
 
+[伪类与伪元素的区别和用法](https://www.cnblogs.com/66-88/articles/6681658.html)
+
+[CSS3伪类和伪元素的特性和区别](https://www.cnblogs.com/ihardcoder/p/5294927.html)
+
 [jquery获取元素的方法](https://www.cnblogs.com/zjfjava/p/9155153.html)
 
 8月第四周
