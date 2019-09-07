@@ -4,6 +4,8 @@
 
 [JS的闭包介绍](https://www.cnblogs.com/chuntaoj/p/5996216.html)
 
+闭包就是能够读取其他函数内部变量的函数。
+
 [自定义input[type="radio"] 的样式](https://www.cnblogs.com/xinjie-just/p/5911086.html)
 
 8月第二周
