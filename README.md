@@ -1,6 +1,14 @@
 
 ##study
+8月第一周
+
+[自定义input[type="radio"] 的样式](https://www.cnblogs.com/xinjie-just/p/5911086.html)
+
 8月第二周
+
+[深入理解浏览器的缓存机制](https://mp.weixin.qq.com/s/y-yajw1GaWLKUdOJo3cbew)
+
+通常浏览器缓存策略分为两种：强缓存和协商缓存，并且缓存策略都是通过设置 HTTP Header 来实现的。
 
 [清除浮动主要是为了解决，父元素因为子级元素浮动引起的内部高度为0的问题](https://www.cnblogs.com/lingdu87/p/7770752.html)
 
