@@ -2,6 +2,8 @@
 ##study
 8月第一周
 
+[精读 js 模块化发展](https://github.com/dt-fe/weekly/blob/master/01.%E7%B2%BE%E8%AF%BB%20js%20%E6%A8%A1%E5%9D%97%E5%8C%96%E5%8F%91%E5%B1%95.md)
+
 [JS的闭包介绍](https://www.cnblogs.com/chuntaoj/p/5996216.html)
 
 闭包就是能够读取其他函数内部变量的函数。
