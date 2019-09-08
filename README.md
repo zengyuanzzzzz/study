@@ -4,6 +4,8 @@
 
 [我的职业是前端工程师](https://github.com/phodal/fe#javascript-%E8%AF%AD%E8%A8%80%E7%9A%84%E5%8F%98%E5%8C%96)
 
+>整个系列的文章大概有 15 篇左右，从我是如何成为一个前端工程师，到各种前端框架的知识。
+
 [chrome浏览器对于网络隐私控制作出重大改变](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247484687&idx=1&sn=b1fb42560b8408d9d4e069fc00ff676d&chksm=fbb58ec6ccc207d0bb99f540f0f2d967b6aa1a671413a8eb2f20a9403c3ede117be798203595&xtrack=1&scene=90&subscene=93&sessionid=1562307023&clicktime=1562)
 
 1. 在默认情况下阻止网站的cookies跨域传输.
