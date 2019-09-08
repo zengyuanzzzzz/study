@@ -2,6 +2,8 @@
 ##study
 8月第一周
 
+[《使用 CSS 属性选择器》](https://github.com/dt-fe/weekly/blob/master/81.%E7%B2%BE%E8%AF%BB%E3%80%8A%E4%BD%BF%E7%94%A8%20CSS%20%E5%B1%9E%E6%80%A7%E9%80%89%E6%8B%A9%E5%99%A8%E3%80%8B.md)
+
 [精读《设计完美的日期选择器》](https://github.com/dt-fe/weekly/blob/master/18.%E7%B2%BE%E8%AF%BB%E3%80%8A%E8%AE%BE%E8%AE%A1%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%97%A5%E6%9C%9F%E9%80%89%E6%8B%A9%E5%99%A8%E3%80%8B.md)
 
 [精读 js 模块化发展](https://github.com/dt-fe/weekly/blob/master/01.%E7%B2%BE%E8%AF%BB%20js%20%E6%A8%A1%E5%9D%97%E5%8C%96%E5%8F%91%E5%B1%95.md)
