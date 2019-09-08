@@ -2,8 +2,9 @@
 ##study
 7月第四周
 
-[chrome浏览器对于网络隐私控制作出重大改变
-](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247484687&idx=1&sn=b1fb42560b8408d9d4e069fc00ff676d&chksm=fbb58ec6ccc207d0bb99f540f0f2d967b6aa1a671413a8eb2f20a9403c3ede117be798203595&xtrack=1&scene=90&subscene=93&sessionid=1562307023&clicktime=1562)
+[我的职业是前端工程师](https://github.com/phodal/fe#javascript-%E8%AF%AD%E8%A8%80%E7%9A%84%E5%8F%98%E5%8C%96)
+
+[chrome浏览器对于网络隐私控制作出重大改变](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247484687&idx=1&sn=b1fb42560b8408d9d4e069fc00ff676d&chksm=fbb58ec6ccc207d0bb99f540f0f2d967b6aa1a671413a8eb2f20a9403c3ede117be798203595&xtrack=1&scene=90&subscene=93&sessionid=1562307023&clicktime=1562)
 
 1. 在默认情况下阻止网站的cookies跨域传输.
 2. chrome浏览器将能够提供有关哪些站点正在设置这些cookie的明确信息，以便用户可以对其数据的使用方式做出明智的选择.
