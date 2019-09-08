@@ -1,5 +1,13 @@
 
 ##study
+7月第四周
+
+[《现代 js 框架存在的根本原因》](https://github.com/dt-fe/weekly/blob/v2/057.%E7%B2%BE%E8%AF%BB%E3%80%8A%E7%8E%B0%E4%BB%A3%20js%20%E6%A1%86%E6%9E%B6%E5%AD%98%E5%9C%A8%E7%9A%84%E6%A0%B9%E6%9C%AC%E5%8E%9F%E5%9B%A0%E3%80%8B.md)
+
+解决 UI 与状态同步的难题。
+
+
+
 8月第一周
 
 [《使用 CSS 属性选择器》](https://github.com/dt-fe/weekly/blob/master/81.%E7%B2%BE%E8%AF%BB%E3%80%8A%E4%BD%BF%E7%94%A8%20CSS%20%E5%B1%9E%E6%80%A7%E9%80%89%E6%8B%A9%E5%99%A8%E3%80%8B.md)
