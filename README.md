@@ -2,6 +2,14 @@
 ##study
 7月第四周
 
+[chrome浏览器对于网络隐私控制作出重大改变
+](https://mp.weixin.qq.com/s?__biz=MzU0OTExNzYwNg==&mid=2247484687&idx=1&sn=b1fb42560b8408d9d4e069fc00ff676d&chksm=fbb58ec6ccc207d0bb99f540f0f2d967b6aa1a671413a8eb2f20a9403c3ede117be798203595&xtrack=1&scene=90&subscene=93&sessionid=1562307023&clicktime=1562)
+
+1. 在默认情况下阻止网站的cookies跨域传输.
+2. chrome浏览器将能够提供有关哪些站点正在设置这些cookie的明确信息，以便用户可以对其数据的使用方式做出明智的选择.
+3. 最终将跨站点cookie传输只能在HTTPS域名起作用。
+4. chrome浏览器会采取措施限制各网站获取浏览器的除cookie信息之外的信息。
+
 [理解css盒子模型](https://www.cnblogs.com/yugege/p/9260563.html)
 
 [《现代 js 框架存在的根本原因》](https://github.com/dt-fe/weekly/blob/v2/057.%E7%B2%BE%E8%AF%BB%E3%80%8A%E7%8E%B0%E4%BB%A3%20js%20%E6%A1%86%E6%9E%B6%E5%AD%98%E5%9C%A8%E7%9A%84%E6%A0%B9%E6%9C%AC%E5%8E%9F%E5%9B%A0%E3%80%8B.md)
