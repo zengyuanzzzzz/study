@@ -89,3 +89,9 @@
 [再看2019大前端技术趋势，Web OS概念正落地](https://developer.aliyun.com/article/711504)
 三大框架越来越贴近Web Components标准 
 
+
+9月第二周
+
+[如何设置HTML页面自适应宽度的table(表格)](http://blog.sina.com.cn/s/blog_66d8992d0100pb5i.html)
+
+[vue是什么](https://blog.csdn.net/weixin_38318244/article/details/85037067)
